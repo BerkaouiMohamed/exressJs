@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+}
+
+nav ul{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    font: 500 20px;
+}
